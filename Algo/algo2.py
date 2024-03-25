@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+#Daniel Barbier 100820942
+
 amount = 20
 pstime = 0.02
 temp = 0
